@@ -66,8 +66,11 @@ Think clearly -> Build simply -> Verify honestly -> Improve continuously
 
 <div align="center">
 
-<img height="168" src="https://github-readme-stats.vercel.app/api?username=ouweibiao&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-<img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouweibiao&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ouweibiao/ouweibiao/main/github-metrics.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ouweibiao/ouweibiao/main/github-metrics.svg" />
+  <img src="https://raw.githubusercontent.com/ouweibiao/ouweibiao/main/github-metrics.svg" alt="GitHub metrics" />
+</picture>
 
 <br />
 
